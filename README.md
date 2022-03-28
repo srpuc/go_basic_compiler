@@ -8,6 +8,7 @@ A basic GO input processing program.
 Compilador de Go en C basico. Se muestra por pantalla la separación en componentes lexicos siguiendo las especificaciones del lenguaje GO de un fichero de entrada.
 
 Para ejecutar el compilador seguir el formato: ./compilador <file>
+Para compilar es necesario ejecutar el comando: make
 
 Ejemplo de ejecución: 
 
